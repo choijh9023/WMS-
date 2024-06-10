@@ -1,4 +1,4 @@
-<h1>SSG 2차미니 프로젝트 - Team 2</h1>
+<h1>SSG 2차 프로젝트 - Team 2</h1>
 
 <h2>WMS시스템 트레이닝</h2>
 
@@ -22,6 +22,8 @@
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black)
 
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
